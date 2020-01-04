@@ -1,4 +1,4 @@
-package steps;
+package tests;
 
 import static org.junit.Assert.assertNotNull;
 import static org.testng.Assert.assertEquals;
@@ -16,7 +16,7 @@ import kong.unirest.*;
 
 public class WebServiceRequestTest {
 	
-	/*@Test
+	@Test
 	public void testGetUserDetails () throws UnirestException {
 		
 		HttpResponse<JsonNode> jsonResponse 
@@ -30,8 +30,8 @@ public class WebServiceRequestTest {
 	 
 	    //assertNotNull(jsonResponse.getBody());
 	    //assertEquals(200, jsonResponse.getStatus());
-	}*/
-	
+	}
+		
 	@SuppressWarnings("unchecked")
 	@Test
 	public void testFileUpload () {

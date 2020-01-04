@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5590" started-at="2020-01-04T07:22:53Z" finished-at="2020-01-04T07:22:59Z">
+  <suite name="Default suite" duration-ms="3530" started-at="2020-01-04T19:03:26Z" finished-at="2020-01-04T19:03:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5590" started-at="2020-01-04T07:22:53Z" finished-at="2020-01-04T07:22:59Z">
-      <class name="steps.WebServiceRequestTest">
-        <test-method status="PASS" signature="testFileUpload()[pri:0, instance:steps.WebServiceRequestTest@d2cc05a]" name="testFileUpload" duration-ms="5560" started-at="2020-01-04T07:22:53Z" finished-at="2020-01-04T07:22:59Z">
+    <test name="Default test" duration-ms="3530" started-at="2020-01-04T19:03:26Z" finished-at="2020-01-04T19:03:29Z">
+      <class name="tests.TestPostRequest">
+        <test-method status="PASS" signature="testPostRequestDetails()[pri:0, instance:tests.TestPostRequest@7823a2f9]" name="testPostRequestDetails" duration-ms="3490" started-at="2020-01-04T19:03:26Z" finished-at="2020-01-04T19:03:29Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testFileUpload -->
-      </class> <!-- steps.WebServiceRequestTest -->
+        </test-method> <!-- testPostRequestDetails -->
+      </class> <!-- tests.TestPostRequest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

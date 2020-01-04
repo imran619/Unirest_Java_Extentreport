@@ -1,0 +1,11 @@
+{
+    "GET": "https://reqres.in/api/users?page=2",
+    "POST": "https://reqres.in/api/users",
+    "PUT": "https://reqres.in/api/users/2",
+    "DELETE": "https://reqres.in/api/users/2",
+    "GET_AUTH": "https://gorest.co.in/public-api/users",
+    "POST_AUTH": "https://gorest.co.in/public-api/users",
+    "GET_STATUS_CODE": "200",
+    "POST_STATUS_CODE": "201",
+    "AUTHENTICATION_TOKEN": "Z1UQZlHX3YYchYeqjd1M04ZiHq6XFhfbsKYT"
+}
